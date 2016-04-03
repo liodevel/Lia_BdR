@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lia BdR</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="action_hoy">Hoy</string>
+    <string name="action_tres_dias">3 días</string>
+    <string name="action_semana_entera">Semana entera</string>
+    <string name="action_ver_dia">Un día</string>
+
+    <string name="titulo">Título</string>
+    <string name="tipo">Tipo</string>
+
+
+    <string-array name="array_tipos_eventos">
+        <item>Soco</item>
+        <item>Soco Exterior</item>
+        <item>Clases</item>
+        <item>Técnico</item>
+        <item>Mainadera</item>
+        <item>Otros</item>
+    </string-array>
+
+
+</resources>

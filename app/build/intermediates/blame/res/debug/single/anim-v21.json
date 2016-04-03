@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/emilio/Android Projects/Lia(CEMBdR)/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/emilio/Android Projects/Lia(CEMBdR)/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/emilio/Android Projects/Lia(CEMBdR)/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/emilio/Android Projects/Lia(CEMBdR)/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
